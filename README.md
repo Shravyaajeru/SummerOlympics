@@ -1,1 +1,2 @@
-# Summer olympic analysis assignment solution
+# SummerOlympics
+Summer olympic analysis assignment solution
